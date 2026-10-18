@@ -3,7 +3,7 @@ cmake-demo: \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/crti.o \
   /usr/lib/gcc/x86_64-linux-gnu/15/crtbeginS.o \
   CMakeFiles/cmake-demo.dir/src/main.c.o \
-  libcalculator.a \
+  /home/milan/CMake-demo/lib/libcalculator.a \
   /usr/lib/gcc/x86_64-linux-gnu/15/libgcc.a \
   /usr/lib/gcc/x86_64-linux-gnu/15/libgcc_s.so \
   /usr/lib/gcc/x86_64-linux-gnu/15/libgcc_s.so \
@@ -13,7 +13,7 @@ cmake-demo: \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libc.so \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libc.so \
   /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libc.so \
-  /lib/x86_64-linux-gnu/libc.so.6 \
+  /usr/lib/x86_64-linux-gnu/libc.so.6 \
   /usr/lib/x86_64-linux-gnu/libc_nonshared.a \
   /lib64/ld-linux-x86-64.so.2 \
   /usr/lib/gcc/x86_64-linux-gnu/15/libgcc.a \
@@ -34,7 +34,7 @@ cmake-demo: \
 
 CMakeFiles/cmake-demo.dir/src/main.c.o:
 
-libcalculator.a:
+/home/milan/CMake-demo/lib/libcalculator.a:
 
 /usr/lib/gcc/x86_64-linux-gnu/15/libgcc.a:
 
@@ -54,7 +54,7 @@ libcalculator.a:
 
 /usr/lib/gcc/x86_64-linux-gnu/15/../../../x86_64-linux-gnu/libc.so:
 
-/lib/x86_64-linux-gnu/libc.so.6:
+/usr/lib/x86_64-linux-gnu/libc.so.6:
 
 /usr/lib/x86_64-linux-gnu/libc_nonshared.a:
 

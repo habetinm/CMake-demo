@@ -1,3 +1,3 @@
 file(REMOVE_RECURSE
-  "libcalculator.a"
+  "/home/milan/CMake-demo/lib/libcalculator.a"
 )

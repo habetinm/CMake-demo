@@ -1,1 +1,1 @@
-/usr/bin/cc -Wl,--dependency-file=CMakeFiles/cmake-demo.dir/link.d "CMakeFiles/cmake-demo.dir/src/main.c.o" -o cmake-demo  libcalculator.a
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/cmake-demo.dir/link.d "CMakeFiles/cmake-demo.dir/src/main.c.o" -o cmake-demo  /home/milan/CMake-demo/lib/libcalculator.a

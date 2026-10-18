@@ -12,7 +12,7 @@ add_library(calculator STATIC
 )
 
 target_include_directories(calculator PUBLIC
-    "${CMAKE_CURRENT_SOURCE_DIR}/include"
+    "${CMAKE_CURRENT_SOURCE_DIR}/inc"
 )
 
 add_executable(cmake-demo
