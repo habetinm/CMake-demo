@@ -1,4 +1,0 @@
-/home/milan/CMake-demo/build/CMakeFiles/calculator.dir
-/home/milan/CMake-demo/build/CMakeFiles/cmake-demo.dir
-/home/milan/CMake-demo/build/CMakeFiles/edit_cache.dir
-/home/milan/CMake-demo/build/CMakeFiles/rebuild_cache.dir
