@@ -1,9 +1,9 @@
 #include <stdio.h>
-#include "calculator.h"
+#include "func.h"
 
 int main(void)
 {
-    int result = add(10, 20);
+    int result = func();
 
     printf("Vysledek: %d\n", result);
 
